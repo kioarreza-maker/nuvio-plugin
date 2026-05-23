@@ -3,7 +3,7 @@ class Example {
     this.name = "Example";
 
     // WEBSITE LINK
-    this.baseUrl = "https://pornhub.com/gay";
+    this.baseUrl = "https://en.yts-official.org/?quality=2160p";
   }
 
   async search(query) {
