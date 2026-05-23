@@ -1,0 +1,14 @@
+{
+  "name": "My Nuvio Repo",
+  "author": "kxxio",
+  "version": "1.0.0",
+  "providers": [
+    {
+      "id": "example",
+      "name": "Example",
+      "file": "providers/example.js",
+      "languages": ["en"],
+      "types": ["movie"]
+    }
+  ]
+}
