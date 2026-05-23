@@ -1,13 +1,16 @@
 class Example {
   constructor() {
     this.name = "Example";
+
+    // WEBSITE LINK
+    this.baseUrl = "https://gay-xtapes.tw";
   }
 
   async search(query) {
     return [
       {
-        title: "Test Movie",
-        url: "https://example.com/movie"
+        title: query,
+        url: this.baseUrl
       }
     ];
   }
