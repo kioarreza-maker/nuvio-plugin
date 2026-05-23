@@ -3,7 +3,7 @@ class Example {
     this.name = "Example";
 
     // WEBSITE LINK
-    this.baseUrl = "https://www.cineby.sc";
+    this.baseUrl = "https://www.pornhub.com/gay";
   }
 
   async search(query) {
@@ -20,7 +20,7 @@ class Example {
       {
         quality: "1080p",
         type: "hls",
-        url: "https://www.cineby.sc"
+        url: "https://www.pornhub.com/gay"
       }
     ];
   }
